@@ -1,0 +1,19 @@
+.heading {
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+.play_button {
+    font-size: 25px;
+    width: 158px;
+}
+
+canvas {
+    border: 5px solid white;
+}
